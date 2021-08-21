@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+<h1>Hey👋</h1>
 
-<!--
-**RichtigerAlex/RichtigerAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+  
+<h3>Languages & Tools:</h3>
+<p> 
+    <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://logonoid.com/images/intellij-idea-logo.png" alt="intelliJ" width="40" height="40"/></a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://gradle.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt "gradle" width="40" height="40"/> </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+  
+<p>
+  Discord: RichtigerAlex#1337
+  <br>
+  Twitter: <a href="https://twitter.com/richtiger_alex">@richtiger_alex</a>
+</p>
+</div>
