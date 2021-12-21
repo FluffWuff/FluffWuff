@@ -10,8 +10,8 @@
 </p>
   
 <p>
-  Discord: RichtigerAlex#1337
+  Discord: FluffWuff#1359
   <br>
-  Twitter: <a href="https://twitter.com/richtiger_alex">@richtiger_alex</a>
+  Twitter: <a href="https://twitter.com/richtiger_alex">@fluffwuff_</a>
 </p>
 </div>
