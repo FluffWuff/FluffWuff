@@ -8,6 +8,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://gradle.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40"/> </a>
     <a href="https://typescriptlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://phaser.io/phaser3" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="phaser3" width="40" height="40"/> </a>
 </p>
   
 <p>
